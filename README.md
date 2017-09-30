@@ -21,3 +21,4 @@ build/                          -> built files
 	classes                     -> compiled java classes
 ```
 # CS3337
+# SudoWash-DEV
