@@ -4,7 +4,7 @@ This is the starter set to start Java EE application development with Gradle usi
 Gretty.
 
 ## Get Started
-
+## sgt
 You can run `gradle appRun` to start application and go to http://localhost:8080/hello
 to see HelloServlet being ran!
 
